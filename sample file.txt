@@ -1,6 +1,6 @@
-Welcome to the readme file
+Welcome to the readme.txt file
 
-Node.js - Node.js is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side.
+Node.js - Node.js is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side. Earlier Javascript was considered as client side scripting language.
 
 
 
